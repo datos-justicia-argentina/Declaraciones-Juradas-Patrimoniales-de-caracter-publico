@@ -1,0 +1,2 @@
+# Declaraciones-Juradas-Patrimoniales-de-caracter-publico
+Datos correspondientes a las Declaraciones Juradas Patrimoniales Integrales presentadas por los sujetos obligados conforme lo normado en la Ley de Ética Pública 25.188 modificada por la Ley 26.857, reglamentada por el Decreto Nro. 895/2013 y la Resolución General AFIP Nro. 3511/2013 y Resolución M.J. y D.H. Nro. 1695/2013. La utilización de este conjunto de datos se encuentra regulada por el Art. 11 de la Ley de Ética Pública 25.188.
