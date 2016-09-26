@@ -18,7 +18,7 @@ Datos correspondientes a las Declaraciones Juradas Patrimoniales Integrales pres
 - **Nombre:** declaracions-juradas-aaaa.csv (aaaa: Año fiscal)
 - **Descripción:** Datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente.
 - **Formato:** CSV delimitados por coma
-- **Rango temporal:** -
+- **Rango temporal:** 2012 - 2015
 - **Fecha de Actualización:** 31/12/2015
 
 ###Campos del recurso
