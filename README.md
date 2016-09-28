@@ -61,7 +61,6 @@ Recursos
 
 -   **Rango temporal:** -
 
--   **Fecha de Actualización:** 31/08/2016
 
 #### Campos del recurso
 
