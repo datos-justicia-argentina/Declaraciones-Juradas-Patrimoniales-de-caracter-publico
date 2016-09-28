@@ -1,178 +1,151 @@
-Entidades constituidas en la Inspección General de Justicia
-===========================================================
+Declaraciones Juradas Patrimoniales Integrales
+==============================================
 
-En este conjunto de datos se detallan los datos de las entidades constituidas en la Inspección General de Justicia -IGJ.
-
-La IGJ, en ejercicio de su función fiscalizadora de personas jurídicas, registra, controla y publica la información relativa a sociedades accionarias y no accionarias, sociedades constituidas en el extranjero, asociaciones civiles y fundaciones con domicilio legal en CABA. Las funciones que ejerce la IGJ son indelegables y se complementan con las realizadas por los organismos registrales de las provincias. Por la importancia de las funciones registrales y de control a su cargo, tiene un rol trascendente en la vida económica y social del país.
-
-La IGJ tiene competencia federal en las Sociedades de Capitalización y Ahorro, y en la implementación del Registro Nacional de Sociedades.
+Datos correspondientes a las Declaraciones Juradas Patrimoniales Integrales presentadas por los sujetos obligados conforme lo normado en la Ley de Ética Pública 25.188 modificada por la Ley 26.857, reglamentada por el Decreto Nro. 895/2013 y la Resolución General AFIP Nro. 3511/2013 y Resolución M.J. y D.H. Nro. 1695/2013. La utilización de este conjunto de datos se encuentra regulada por el Art. 11 de la Ley de Ética Pública 25.188.
 
 Características
 ---------------
 
--   **Fecha de Publicación:** 14/09/2016
+-   **Fecha de Publicación:** dd/mm/aaaa
 
--   **Recurso:** Entidades constituidas en la Inspección General de Justicia
+-   **Recurso:** Declaraciones Juradas Patrimoniales Integrales
 
--   **Tags o Etiquetas:** entidades, sociedades, IGJ, personas jurídicas, SRL, fundación, asociación civil, sociedad anónima, etc.
+-   **Tags o Etiquetas:** Anticorrupción, DDJJ, Funcionarios, Ley 25188, Ley 26857, Patrimonio, Ética Pública.
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia.
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción.
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia.
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción.
 
--   **Responsable:** Inspección General de Justicia.
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción.
 
--   **Grupos:** Sistema Registral.
+-   **Grupos:** Anticorrupción.
 
 -   **Frecuencia de Actualización:** Eventual.
 
 Recursos
 --------
 
-### Entidades
+### Declaraciones Juradas Patrimoniales Integrales
 
--   **Nombre:** igj-entidades.csv
+-   **Nombre:** declaracions-juradas-aaaa.csv (aaaa: Año fiscal)
 
--   **Descripción:** Entidades constituidas en la IGJ
+-   **Descripción:** Datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente.
 
--   **Formato:** CSV delimitado por comas
-
--   **Rango temporal:** -
-
--   **Fecha de Actualización:** 31/08/2016
-
-#### Campos del recurso
-
--   **numero\_correlativo (int):** Número correlativo que identifica la entidad
-
--   **tipo\_societario (int):** Código del tipo societario
-
--   **descripcion\_tipo\_societario (string):** Descripción del tipo societario
-
--   **razon\_social (string):** Razón social de la entidad
-
-### Domicilios
-
--   **Nombre:** igj-domicilios.csv
-
--   **Descripción:** Domicilios de las entidades
-
--   **Formato:** CSV delimitado por comas
+-   **Formato:** CSV
 
 -   **Rango temporal:** -
 
+### Campos del recurso
 
-#### Campos del recurso
+-   **dj\_id (int):** Número de identificación de la declaración jurada
 
--   **numero\_correlativo (int):** Número correlativo que identifica la entidad
+-   **cuit (int):** Número de cuit del funcionario declarante
 
--   **tipo\_societario (int):** Código del tipo societario
+-   **anio (int):** Año de presentación de la declaración jurada
 
--   **descripción\_tipo\_societario (string):** Descripción del tipo societario
+-   **rectificativa (int):** Indica si es una rectificación o una declaración jurada original. El número entero indica la cantidad de enmiendas que fueron hechas.
 
--   **razon\_social (string):** Razón social de la entidad
+-   **apellido\_nombre (string):** Apellido y nombre del funcionario
 
--   **tipo\_domicilio (string):** Tipo de domicilio que corresponde a la entidad (L Legal, S Sucursal)
+-   **sector (string):** público o privado
 
--   **descripcion\_tipo\_domicilio (string):** Descripción del tipo de domicilio que corresponde a la entidad
+-   **organismo (string):** Organismo en el que se desempeña el funcionario
 
--   **calle (string):** Calle del domicilio de la entidad
+-   **actividad\_principal\_ambito (string):** Actividad / Ámbito
 
--   **numero (string):** Número del domicilio de la entidad
+-   **cargo (string):** Cargo del funcionario
 
--   **localidad (string):** Localidad del domicilio de la entidad
+-   **desde (string):** Fecha desde la que se registran declaraciones, formato año y mes (aaaa-mm)
 
--   **provincia (string):** Provincia del domicilio de la entidad
+-   **goza\_de\_licencia (string):** SI / NO
 
--   **codigo\_postal (string):** Código postal del domicilio de la entidad
+-   **fecha\_inicio\_licencia (string):** Fecha de inicio de la licencia, si aplica. Formato año y mes (aaaamm)
 
-### Autoridades
+-   **horas\_dedicacion (int):** Dedicación de horas por semana (h/semana - 1)
 
--   **Nombre:** igj-asambleas.csv
+-   **proveedor\_contratista (string):** SI / NO. Indica si la empresa, organismo, entidad o el funcionario es o ha sido en los últimos 3 años, proveedor, contratista, concesionario, beneficiario o sujeto controlado o regulado por la jurisdicción u organismo donde se desempeña.
 
--   **Descripción:** Autoridades de las entidades
+-   **total\_bienes\_inicio (float):** Bienes, depósitos y dinero al inicio del año. (ARS - 1)
 
--   **Formato:** CSV delimitado por comas
+-   **deudas\_inicio (float):** Deudas registradas al inicio del año.
 
--   **Rango temporal:** -
+-   **total\_bienes\_final (float):** Bienes, depósitos y dinero al final del año.
 
--   **Fecha de Actualización:** 31/08/2016
+-   **total\_deudas\_final (float):** Deudas registradas al final del año.
 
-#### Campos del recurso
+-   **diferencia\_valuacion (float):**
 
--   **numero\_correlativo (int):** Número correlativo que identifica la entidad
+-   **ingresos\_neto\_gastos (float):** Ingresos del trabajo, de alquileres y otras rentas neto de gastos. (ARS - 1)
 
--   **apellido\_nombre (string):** Apellido y nombre de la autoridad
+-   **ingresos\_no\_alcanzados (float):** Ingresos No alcanzados por el impuesto a las ganancias. (ARS - 1)
 
--   **tipo\_administrador (string):** Código de tipo de administrador (A Autoridades, R Representantes, S Socios)
+-   **bienes\_por\_herencia (float):** Bienes recibidos por herencia, legado o donación. (ARS - 1)
 
--   **descripcion\_tipo\_administrador (string):** Descripción del tipo de administrador
+-   **importes\_deducidos (float):** Importes deducidos impositivamente que no implican erogación de fondos. (ARS - 1)
 
--   **tipo\_documento (string):** Código de tipo de documento del administrador
+-   **gastos\_no\_deducibles (float):** Gastos No deducibles en el impuesto a las ganancias. (ARS - 1)
 
--   **descripcion\_tipo\_documento (string):** Descripción del tipo de documento del administrador
+-   **gastos\_personales (float):** Gastos personales. (ARS - 1)
 
--   **numero\_documento (string):** Número de documento del administrador
+-   **total\_ingresos\_c1 (float):** Total de ingresos 1ra. categoría\*. (ARS - 1)
 
-### Asambleas
+-   **total\_gastos\_c1 (float):** Total de gastos (incluye deducciones especiales de la 1ra. categoría\*). (ARS - 1)
 
--   **Nombre:** igj-asambleas.csv
+-   **ingreso\_neto\_renta\_sueldo\_c1 (float):** Ingreso neto renta del sueldo (1ra. categoría\*). (ARS - 1)
 
--   **Descripción:** Presentación de Asambleas de las entidades
+-   **total\_ingresos\_c2 (float):** Total de ingresos 2da. categoría\*. (ARS - 1)
 
--   **Formato:** CSV delimitado por comas
+-   **total\_gastos\_c2 (float):** Total de gastos (incluye deducciones especiales de la 2da. categoría\*). (ARS - 1)
 
--   **Rango temporal:** -
+-   **ingreso\_neto\_renta\_capitales\_c2 (float):** Ingreso neto renta del capitales (2da. categoría\*). (ARS - 1)
 
--   **Fecha de Actualización:** 31/08/2016
+-   **total\_ingresos\_c3 (float):** Total de ingresos 3ra. categoría\*. (ARS - 1)
 
-#### Campos del recurso
+-   **total\_gastos\_c3 (float):** Total de gastos (incluye deducciones especiales de la 3ra. categoría\*). (ARS - 1)
 
--   **numero\_correlativo (int):** Número correlativo que identifica la entidad
+-   **ingreso\_neto\_renta\_empresa\_c3 (float):** Ingreso neto renta de empresas y auxiliares de comercio (3ra. categoría\*). (ARS - 1)
 
--   **tipo\_societario (int):** Código del tipo societario
+-   **total\_ingresos\_c4 (float):** Total de ingresos 4ta. categoría\*. (ARS - 1)
 
--   **descripción\_tipo\_societario (string):** Descripción del tipo societario
+-   **total\_gastos\_c4 (float):** Total de gastos (incluye deducciones especiales de la 4ta. categoría\*). (ARS - 1)
 
--   **razon\_social (string):** Razón social de la entidad
+-   **ingreso\_neto\_renta\_trabajo\_personal\_c4 (float):** Ingreso neto renta del trabajo personal (4ta. categoría\*). (ARS - 1)
 
--   **tipo\_asamblea (string):** Tipo de asamblea
+-   **total\_ingreso\_neto\_c1234 (float):** Total ingreso neto de las 4 categorías\*. (ARS - 1)
 
--   **descripción\_tipo\_asamblea (string):** Descripción del tipo de asamblea
+-   **desgravaciones (float):** Desgravaciones. (ARS - 1)
 
--   **fecha\_realizacion (date):** Fecha de realización de la asamblea
+-   **deducciones\_generales (float):** Deducciones generales. (ARS - 1)
 
--   **fecha\_presentacion (date):** Fecha de presentación de la asamblea
+-   **seguro\_vida (float):** Seguro de vida (con límite de monto máximo). (ARS - 1)
 
-### Balances
+-   **gastos\_sepelio (float):** Gastos de sepelio (con límite de monto máximo). (ARS – 1)
 
--   **Nombre:** igj-balances.csv
+-   **aportes\_obras\_sociales (float):** Aportes a obras sociales. (ARS – 1)
 
--   **Descripción:** Presentación de balances de las entidades
+-   **deducciones\_servicio\_domestico (float):** Deducciones Ley 26.083 - Servicio doméstico (con límite ganancia no imponible). (ARS - 1)
 
--   **Formato:** CSV delimitados por comas.
+-   **cuota\_medico\_asistencial (float):** Cuota médico asistencial (con límite del 5% de la Renta Neta). (ARS - 1)
 
--   **Rango temporal:** -
+-   **donaciones\_fiscos (float):** Donaciones a los fiscos nacionales, provinciales y municipales, etc. (con límite del 5% de renta neta). (ARS - 1)
 
--   **Fecha de Actualización:** 31/08/2016
+-   **fondos\_jubilacion (float):** Fondos de jubilaciones, retiros, pensiones o subsidios (excepto autónomos). (ARS - 1)
 
-#### Campos del recurso
+-   **pagos\_trabajadores\_autonomos (float):** Pagos régimen nacional de trabajadores autónomos. (ARS - 1)
 
--   **numero\_correlativo (int):** Número correlativo
+-   **honorarios\_asistencia\_medica (float):** Honorarios servicio de asistencia sanitaria médica y paramédica (con limite 5% de renta neta). (ARS - 1)
 
--   **tipo\_societario (int):** Código del tipo societario
+-   **intereses\_creditos\_hipotecarios (float):** Intereses crédito hipotecario (con límite). (ARS - 1)
 
--   **descripción\_tipo\_societario (string):** Descripción del tipo societario
+-   **aportes\_sociedades\_garantias\_reciprocas (float):** Aportes a sociedades de garantía recíproca. (ARS - 1)
 
--   **razon\_social (string):** Razón social de la entidad
+-   **otros (float):** Otros. (ARS - 1)
 
--   **fecha\_balance (date):** Fecha de cierre del balance
+-   **ingresos\_trabajos\_alquileres\_rentas (float):** Ingresos del trabajo, de alquileres y otras rentas neto de gastos - en IG resultado del periodo. (ARS - 1)
 
--   **fecha\_presentacion (date):** Fecha de presentación del balance
+-   **ingresos\_no\_alcanzados\_por\_ig (float):** Ingresos no alcanzados por el impuesto a las ganancias - en IG Total ganancias y/o ingresos exentos. (ARS - 1)
 
--   **capital\_informado (float):** Número correlativo que identifica la entidad
+-   **bienes\_heredados (float):** Bienes recibidos por herencia, legado o donación. (ARS - 1)
 
 Notas
 -----
-
-Los trámites a realizarse en la IGJ pueden consultarse iniciarse o iniciarse en [*http://www.jus.gob.ar/igj*](http://www.jus.gob.ar/igj)
