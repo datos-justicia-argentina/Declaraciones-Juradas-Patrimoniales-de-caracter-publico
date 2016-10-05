@@ -6,7 +6,7 @@ Datos correspondientes a las Declaraciones Juradas Patrimoniales Integrales pres
 Características
 ---------------
 
--   **Fecha de Publicación:** dd/mm/aaaa
+-   **Fecha de Publicación:** 09/09/2016
 
 -   **Recurso:** Declaraciones Juradas Patrimoniales Integrales
 
