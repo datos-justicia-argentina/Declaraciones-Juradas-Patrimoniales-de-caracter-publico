@@ -10,7 +10,7 @@ Características
 
 -   **Recurso:** Declaraciones Juradas Patrimoniales Integrales
 
--   **Tags o Etiquetas:** Anticorrupción, DDJJ, Funcionarios, Ley 25188, Ley 26857, Patrimonio, Ética Pública.
+-   **Tags o Etiquetas:** anticorrupción, DDJJ, funcionarios, Ley 25188, Ley 26857, patrimonio, ética pública.
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción.
 
@@ -22,14 +22,14 @@ Características
 
 -   **Frecuencia de Actualización:** Eventual.
 
-Recursos
---------
+Recursos Disponibles
+--------------------
 
 ### Declaraciones Juradas Patrimoniales Integrales
 
--   **Nombre:** declaracions-juradas-aaaa.csv (aaaa: Año fiscal)
+-   **Nombre del archivo:** declaracions-juradas-aaaa.csv (aaaa: Año fiscal)
 
--   **Descripción:** Datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente.
+-   **Descripción del contenido:** Datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente.
 
 -   **Formato:** CSV separado por comas
 
