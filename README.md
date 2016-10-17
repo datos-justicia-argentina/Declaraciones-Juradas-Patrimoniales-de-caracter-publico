@@ -10,26 +10,26 @@ Características
 
 -   **Recurso:** Declaraciones Juradas Patrimoniales Integrales
 
--   **Tags o Etiquetas:** anticorrupción, DDJJ, funcionarios, Ley 25188, Ley 26857, patrimonio, ética pública.
+-   **Tags o Etiquetas:** anticorrupción, DDJJ, funcionarios, Ley 25188, Ley 26857, patrimonio, ética pública
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción.
+-   **Organización:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción.
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción.
+-   **Responsable:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
 
--   **Grupos:** Anticorrupción.
+-   **Grupo:** Anticorrupción
 
--   **Frecuencia de Actualización:** Eventual.
+-   **Frecuencia de Actualización:** Eventual
 
-Recursos Disponibles
+Recursos disponibles
 --------------------
 
 ### Declaraciones Juradas Patrimoniales Integrales
 
 -   **Nombre del archivo:** declaracions-juradas-aaaa.csv (aaaa: Año fiscal)
 
--   **Descripción del contenido:** Datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente.
+-   **Descripción del contenido:** Datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente
 
 -   **Formato:** CSV separado por comas
 
@@ -43,7 +43,7 @@ Recursos Disponibles
 
 -   **anio (int):** Año de presentación de la declaración jurada
 
--   **rectificativa (int):** Indica si es una rectificación o una declaración jurada original. El número entero indica la cantidad de enmiendas que fueron hechas.
+-   **rectificativa (int):** Indica si es una rectificación o una declaración jurada original. El número entero indica la cantidad de enmiendas que fueron hechas
 
 -   **apellido\_nombre (string):** Apellido y nombre del funcionario
 
@@ -63,15 +63,15 @@ Recursos Disponibles
 
 -   **horas\_dedicacion (int):** Dedicación de horas por semana (h/semana - 1)
 
--   **proveedor\_contratista (string):** SI / NO. Indica si la empresa, organismo, entidad o el funcionario es o ha sido en los últimos 3 años, proveedor, contratista, concesionario, beneficiario o sujeto controlado o regulado por la jurisdicción u organismo donde se desempeña.
+-   **proveedor\_contratista (string):** SI / NO. Indica si la empresa, organismo, entidad o el funcionario es o ha sido en los últimos 3 años, proveedor, contratista, concesionario, beneficiario o sujeto controlado o regulado por la jurisdicción u organismo donde se desempeña
 
 -   **total\_bienes\_inicio (float):** Bienes, depósitos y dinero al inicio del año. (ARS - 1)
 
--   **deudas\_inicio (float):** Deudas registradas al inicio del año.
+-   **deudas\_inicio (float):** Deudas registradas al inicio del año
 
--   **total\_bienes\_final (float):** Bienes, depósitos y dinero al final del año.
+-   **total\_bienes\_final (float):** Bienes, depósitos y dinero al final del año
 
--   **total\_deudas\_final (float):** Deudas registradas al final del año.
+-   **total\_deudas\_final (float):** Deudas registradas al final del año
 
 -   **diferencia\_valuacion (float):**
 
@@ -147,5 +147,4 @@ Recursos Disponibles
 
 -   **bienes\_heredados (float):** Bienes recibidos por herencia, legado o donación. (ARS - 1)
 
-Notas
------
+
