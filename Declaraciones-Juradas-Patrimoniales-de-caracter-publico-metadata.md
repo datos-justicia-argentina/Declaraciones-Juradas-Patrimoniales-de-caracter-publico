@@ -6,7 +6,7 @@ Datos correspondientes a las Declaraciones Juradas Patrimoniales Integrales pres
 Características
 ---------------
 
--   **Fecha de Publicación:** 09/09/2016
+-   **Fecha de Primera Publicación:** 09/09/2016
 
 -   **Tags o Etiquetas:** anticorrupción, DDJJ, funcionarios, Ley 25188, Ley 26857, patrimonio, ética pública
 
