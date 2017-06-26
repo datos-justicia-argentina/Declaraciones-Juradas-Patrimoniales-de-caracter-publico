@@ -29,9 +29,10 @@ Recursos disponibles
 
 -   **Descripción del contenido:** datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente
 
--   **Formato:** CSV separado por comas
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** -
+-   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+
 
 ### Campos del recurso
 
