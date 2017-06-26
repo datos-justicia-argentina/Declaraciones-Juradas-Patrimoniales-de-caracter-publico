@@ -25,7 +25,7 @@ Recursos disponibles
 
 ### Declaraciones Juradas Patrimoniales Integrales
 
--   **Nombre del archivo:** declaracions-juradas-aaaa.csv (aaaa: Año fiscal)
+-   **Nombre del archivo:** declaracions-juradas-AAAA.csv (AAAA: Año fiscal)
 
 -   **Descripción del contenido:** datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente
 
