@@ -1,5 +1,5 @@
-Declaraciones Juradas Patrimoniales Integrales
-==============================================
+Declaraciones Juradas Patrimoniales Integrales de carácter público
+==================================================================
 
 Datos correspondientes a las Declaraciones Juradas Patrimoniales Integrales presentadas por los sujetos obligados conforme lo normado en la Ley de Ética Pública 25.188 modificada por la [Ley 26.857](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215002/norma.htm), reglamentada por el [Decreto Nro. 895/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217131/norma.htm) y la [Resolución General AFIP Nro. 3511/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217218/norma.htm) y [Resolución M.J. y D.H. Nro. 1695/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/219937/norma.htm). La utilización de este conjunto de datos se encuentra regulada por el Art. 11 de la [Ley de Ética Pública 25.188](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm).
 
@@ -23,7 +23,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Declaraciones Juradas Patrimoniales Integrales
+### Declaraciones Juradas Patrimoniales Integrales de carácter público
 
 -   **Nombre del archivo:** declaracions-juradas-AAAA.csv (AAAA: Año fiscal)
 
