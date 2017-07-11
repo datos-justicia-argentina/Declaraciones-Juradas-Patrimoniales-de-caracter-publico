@@ -36,7 +36,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **dj\_id (int):** número de identificación de la declaración jurada
+-   **dj_id (int):** número de identificación de la declaración jurada
 
 -   **cuit (int):** número de cuit del funcionario declarante
 
@@ -44,106 +44,106 @@ Recursos disponibles
 
 -   **rectificativa (int):** indica si es una rectificación o una declaración jurada original. El número entero indica la cantidad de enmiendas que fueron hechas
 
--   **apellido\_nombre (string):** apellido y nombre del funcionario
+-   **apellido_nombre (string):** apellido y nombre del funcionario
 
 -   **sector (string):** público o privado
 
 -   **organismo (string):** organismo en el que se desempeña el funcionario
 
--   **actividad\_principal\_ambito (string):** actividad / ámbito
+-   **actividad_principal_ambito (string):** actividad / ámbito
 
 -   **cargo (string):** cargo del funcionario
 
 -   **desde (string):** fecha desde la que se registran declaraciones, formato año y mes (aaaa-mm)
 
--   **goza\_de\_licencia (string):** SI / NO
+-   **goza_de_licencia (string):** SI / NO
 
--   **fecha\_inicio\_licencia (string):** fecha de inicio de la licencia, si aplica. Formato año y mes (aaaamm)
+-   **fecha_inicio_licencia (string):** fecha de inicio de la licencia, si aplica. Formato año y mes (aaaamm)
 
--   **horas\_dedicacion (int):** dedicación de horas por semana (h/semana - 1)
+-   **horas_dedicacion (int):** dedicación de horas por semana (h/semana - 1)
 
--   **proveedor\_contratista (string):** SI / NO. Indica si la empresa, organismo, entidad o el funcionario es o ha sido en los últimos 3 años, proveedor, contratista, concesionario, beneficiario o sujeto controlado o regulado por la jurisdicción u organismo donde se desempeña
+-   **proveedor_contratista (string):** SI / NO. Indica si la empresa, organismo, entidad o el funcionario es o ha sido en los últimos 3 años, proveedor, contratista, concesionario, beneficiario o sujeto controlado o regulado por la jurisdicción u organismo donde se desempeña
 
--   **total\_bienes\_inicio (float):** bienes, depósitos y dinero al inicio del año. (ARS - 1)
+-   **total_bienes_inicio (float):** bienes, depósitos y dinero al inicio del año. (ARS - 1)
 
--   **deudas\_inicio (float):** deudas registradas al inicio del año
+-   **deudas_inicio (float):** deudas registradas al inicio del año
 
--   **total\_bienes\_final (float):** bienes, depósitos y dinero al final del año
+-   **total_bienes_final (float):** bienes, depósitos y dinero al final del año
 
--   **total\_deudas\_final (float):** deudas registradas al final del año
+-   **total_deudas_final (float):** deudas registradas al final del año
 
--   **diferencia\_valuacion (float):**
+-   **diferencia_valuacion (float):**
 
--   **ingresos\_neto\_gastos (float):** ingresos del trabajo, de alquileres y otras rentas neto de gastos. (ARS - 1)
+-   **ingresos_neto_gastos (float):** ingresos del trabajo, de alquileres y otras rentas neto de gastos. (ARS - 1)
 
--   **ingresos\_no\_alcanzados (float):** ingresos No alcanzados por el impuesto a las ganancias. (ARS - 1)
+-   **ingresos_no_alcanzados (float):** ingresos No alcanzados por el impuesto a las ganancias. (ARS - 1)
 
--   **bienes\_por\_herencia (float):** bienes recibidos por herencia, legado o donación. (ARS - 1)
+-   **bienes_por_herencia (float):** bienes recibidos por herencia, legado o donación. (ARS - 1)
 
--   **importes\_deducidos (float):** importes deducidos impositivamente que no implican erogación de fondos. (ARS - 1)
+-   **importes_deducidos (float):** importes deducidos impositivamente que no implican erogación de fondos. (ARS - 1)
 
--   **gastos\_no\_deducibles (float):** gastos no deducibles en el impuesto a las ganancias. (ARS - 1)
+-   **gastos_no_deducibles (float):** gastos no deducibles en el impuesto a las ganancias. (ARS - 1)
 
--   **gastos\_personales (float):** gastos personales. (ARS - 1)
+-   **gastos_personales (float):** gastos personales. (ARS - 1)
 
--   **total\_ingresos\_c1 (float):** total de ingresos 1ra. categoría\*. (ARS - 1)
+-   **total_ingresos_c1 (float):** total de ingresos 1ra. categoría\*. (ARS - 1)
 
--   **total\_gastos\_c1 (float):** total de gastos (incluye deducciones especiales de la 1ra. categoría\*). (ARS - 1)
+-   **total_gastos_c1 (float):** total de gastos (incluye deducciones especiales de la 1ra. categoría\*). (ARS - 1)
 
--   **ingreso\_neto\_renta\_sueldo\_c1 (float):** ingreso neto renta del sueldo (1ra. categoría\*). (ARS - 1)
+-   **ingreso_neto_renta\_sueldo\_c1 (float):** ingreso neto renta del sueldo (1ra. categoría\*). (ARS - 1)
 
--   **total\_ingresos\_c2 (float):** total de ingresos 2da. categoría\*. (ARS - 1)
+-   **total_ingresos_c2 (float):** total de ingresos 2da. categoría\*. (ARS - 1)
 
--   **total\_gastos\_c2 (float):** total de gastos (incluye deducciones especiales de la 2da. categoría\*). (ARS - 1)
+-   **total_gastos_c2 (float):** total de gastos (incluye deducciones especiales de la 2da. categoría\*). (ARS - 1)
 
--   **ingreso\_neto\_renta\_capitales\_c2 (float):** ingreso neto renta del capitales (2da. categoría\*). (ARS - 1)
+-   **ingreso_neto_renta_capitales_c2 (float):** ingreso neto renta del capitales (2da. categoría\*). (ARS - 1)
 
--   **total\_ingresos\_c3 (float):** total de ingresos 3ra. categoría\*. (ARS - 1)
+-   **total_ingresos_c3 (float):** total de ingresos 3ra. categoría\*. (ARS - 1)
 
--   **total\_gastos\_c3 (float):** total de gastos (incluye deducciones especiales de la 3ra. categoría\*). (ARS - 1)
+-   **total_gastos_c3 (float):** total de gastos (incluye deducciones especiales de la 3ra. categoría\*). (ARS - 1)
 
--   **ingreso\_neto\_renta\_empresa\_c3 (float):** ingreso neto renta de empresas y auxiliares de comercio (3ra. categoría\*). (ARS - 1)
+-   **ingreso_neto_renta_empresa_c3 (float):** ingreso neto renta de empresas y auxiliares de comercio (3ra. categoría\*). (ARS - 1)
 
--   **total\_ingresos\_c4 (float):** total de ingresos 4ta. categoría\*. (ARS - 1)
+-   **total_ingresos_c4 (float):** total de ingresos 4ta. categoría\*. (ARS - 1)
 
--   **total\_gastos\_c4 (float):** total de gastos (incluye deducciones especiales de la 4ta. categoría\*). (ARS - 1)
+-   **total_gastos_c4 (float):** total de gastos (incluye deducciones especiales de la 4ta. categoría\*). (ARS - 1)
 
--   **ingreso\_neto\_renta\_trabajo\_personal\_c4 (float):** ingreso neto renta del trabajo personal (4ta. categoría\*). (ARS - 1)
+-   **ingreso_neto_renta_trabajo_personal_c4 (float):** ingreso neto renta del trabajo personal (4ta. categoría\*). (ARS - 1)
 
--   **total\_ingreso\_neto\_c1234 (float):** total ingreso neto de las 4 categorías\*. (ARS - 1)
+-   **total_ingreso_neto_c1234 (float):** total ingreso neto de las 4 categorías\*. (ARS - 1)
 
 -   **desgravaciones (float):** desgravaciones. (ARS - 1)
 
--   **deducciones\_generales (float):** deducciones generales. (ARS - 1)
+-   **deducciones_generales (float):** deducciones generales. (ARS - 1)
 
--   **seguro\_vida (float):** seguro de vida (con límite de monto máximo). (ARS - 1)
+-   **seguro_vida (float):** seguro de vida (con límite de monto máximo). (ARS - 1)
 
--   **gastos\_sepelio (float):** gastos de sepelio (con límite de monto máximo). (ARS – 1)
+-   **gastos_sepelio (float):** gastos de sepelio (con límite de monto máximo). (ARS – 1)
 
--   **aportes\_obras\_sociales (float):** aportes a obras sociales. (ARS – 1)
+-   **aportes_obras_sociales (float):** aportes a obras sociales. (ARS – 1)
 
--   **deducciones\_servicio\_domestico (float):** deducciones Ley 26.083 - Servicio doméstico (con límite ganancia no imponible). (ARS - 1)
+-   **deducciones_servicio_domestico (float):** deducciones Ley 26.083 - Servicio doméstico (con límite ganancia no imponible). (ARS - 1)
 
--   **cuota\_medico\_asistencial (float):** cuota médico asistencial (con límite del 5% de la Renta Neta). (ARS - 1)
+-   **cuota_medico_asistencial (float):** cuota médico asistencial (con límite del 5% de la Renta Neta). (ARS - 1)
 
--   **donaciones\_fiscos (float):** donaciones a los fiscos nacionales, provinciales y municipales, etc. (con límite del 5% de renta neta). (ARS - 1)
+-   **donaciones_fiscos (float):** donaciones a los fiscos nacionales, provinciales y municipales, etc. (con límite del 5% de renta neta). (ARS - 1)
 
--   **fondos\_jubilacion (float):** fondos de jubilaciones, retiros, pensiones o subsidios (excepto autónomos). (ARS - 1)
+-   **fondos_jubilacion (float):** fondos de jubilaciones, retiros, pensiones o subsidios (excepto autónomos). (ARS - 1)
 
--   **pagos\_trabajadores\_autonomos (float):** pagos régimen nacional de trabajadores autónomos. (ARS - 1)
+-   **pagos_trabajadores_autonomos (float):** pagos régimen nacional de trabajadores autónomos. (ARS - 1)
 
--   **honorarios\_asistencia\_medica (float):** honorarios servicio de asistencia sanitaria médica y paramédica (con limite 5% de renta neta). (ARS - 1)
+-   **honorarios_asistencia_medica (float):** honorarios servicio de asistencia sanitaria médica y paramédica (con limite 5% de renta neta). (ARS - 1)
 
--   **intereses\_creditos\_hipotecarios (float):** intereses crédito hipotecario (con límite). (ARS - 1)
+-   **intereses_creditos_hipotecarios (float):** intereses crédito hipotecario (con límite). (ARS - 1)
 
--   **aportes\_sociedades\_garantias\_reciprocas (float):** aportes a sociedades de garantía recíproca. (ARS - 1)
+-   **aportes_sociedades_garantias_reciprocas (float):** aportes a sociedades de garantía recíproca. (ARS - 1)
 
 -   **otros (float):** Otros. (ARS - 1)
 
--   **ingresos\_trabajos\_alquileres\_rentas (float):** ingresos del trabajo, de alquileres y otras rentas neto de gastos - en IG resultado del periodo. (ARS - 1)
+-   **ingresos_trabajos_alquileres_rentas (float):** ingresos del trabajo, de alquileres y otras rentas neto de gastos - en IG resultado del periodo. (ARS - 1)
 
--   **ingresos\_no\_alcanzados\_por\_ig (float):** ingresos no alcanzados por el impuesto a las ganancias - en IG Total ganancias y/o ingresos exentos. (ARS - 1)
+-   **ingresos_no_alcanzados_por_ig (float):** ingresos no alcanzados por el impuesto a las ganancias - en IG Total ganancias y/o ingresos exentos. (ARS - 1)
 
--   **bienes\_heredados (float):** bienes recibidos por herencia, legado o donación. (ARS - 1)
+-   **bienes_heredados (float):** bienes recibidos por herencia, legado o donación. (ARS - 1)
 
 
