@@ -23,9 +23,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Declaraciones Juradas Patrimoniales Integrales de carácter público
+### Declaraciones Juradas Patrimoniales Integrales de carácter público - AAAA- Actualizado al AAAA-MM-DD
 
--   **Nombre del archivo:** declaracions-juradas-AAAA.csv (AAAA: Año fiscal)
+-   **Nombre del archivo:** declaraciones-juradas-AAAA-actualizado-al-AAAA-MM-DD.csv (AAAA: Año fiscal)
 
 -   **Descripción del contenido:** datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente
 
