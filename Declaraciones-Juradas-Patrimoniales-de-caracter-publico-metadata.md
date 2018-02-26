@@ -3,6 +3,8 @@ Declaraciones Juradas Patrimoniales Integrales de carácter público
 
 Datos correspondientes a las Declaraciones Juradas Patrimoniales Integrales presentadas por los sujetos obligados conforme lo normado en la Ley de Ética Pública 25.188 modificada por la [Ley 26.857](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215002/norma.htm), reglamentada por el [Decreto Nro. 895/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217131/norma.htm) y la [Resolución General AFIP Nro. 3511/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217218/norma.htm), [Resolución M.J. y D.H. Nro. 1695/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/219937/norma.htm) y [Resolución M.J. y D.H. Nro. 23-E/2017](http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/277822/norma.htm). La utilización de este conjunto de datos se encuentra regulada por el Art. 11 de la [Ley de Ética Pública 25.188](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm).
 
+http://datos.jus.gob.ar/dataset/declaraciones-juradas-patrimoniales-integrales
+
 Características
 ---------------
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** declaraciones-juradas-AAAA-actualizado-al-AAAA-MM-DD.csv (AAAA: Año fiscal)
 
--   **Descripción del contenido:** datos correspondiente a las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente
+-   **Descripción del contenido:** detalle de las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
