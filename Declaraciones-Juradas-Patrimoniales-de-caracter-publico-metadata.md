@@ -148,4 +148,8 @@ Recursos disponibles
 
 -   **bienes_heredados (float):** bienes recibidos por herencia, legado o donación. (ARS - 1)
 
+Notas:
+------
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
+
 
