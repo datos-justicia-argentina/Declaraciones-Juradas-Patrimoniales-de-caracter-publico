@@ -158,6 +158,8 @@ Recursos disponibles
 
 Notas:
 ------
+El informe completo de las Declaraciones Juradas Patrimoniales Integrales se genera  entre el mes de septiembre y octubre de cada año.
+
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
 
 
