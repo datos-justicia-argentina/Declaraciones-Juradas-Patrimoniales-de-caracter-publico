@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** declaraciones-juradas-AAAA-altas-y-bajas-al-AAAA-MM-DD.csv (AAAA: Año fiscal)
 
--   **Descripción del contenido:** detalle de las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente
+-   **Descripción del contenido:** detalle de las Declaraciones Juradas Patrimoniales integrales con las altas y bajas de funcionarios para el año fiscal correspondiente
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -154,7 +154,7 @@ Recursos disponibles
 
 -   **Nombre:** declaraciones-juradas-AAAA.zip
 
--   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+-   **Descripción del contenido:** archivo comprimido que contiene las Declaraciones Juradas Patrimoniales Integradas consolidadas organizadas en archivos anuales y las altas y bajas de funcionarios para el año fiscal correspondiente.
 
 -   **Formato:** ZIP
 
