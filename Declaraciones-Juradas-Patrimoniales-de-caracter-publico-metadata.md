@@ -44,7 +44,7 @@ Recursos disponibles
 
 -   **anio (int):** año de presentación de la declaración jurada
 
--   **tipo_declaracion_jurada (int):** tipo de declaración jurada. Puede tomar los valores: (0) indica el estado de la presentación de la delcaración jurada al inicio de la actividad en la función pública; (1) indica el cece de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) indica la la renovación anual de la declaración jurada
+-   **tipo_declaracion_jurada (int):** tipo de declaración jurada. Puede tomar los valores: (0) indica el estado de la presentación de la delcaración jurada al inicio de la actividad en la función pública; (1) indica el cese de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) indica la la renovación anual de la declaración jurada
 
    -   **rectificativa (int):** indica si es una rectificación o una declaración jurada original. El número entero indica la cantidad de enmiendas que fueron hechas
 
