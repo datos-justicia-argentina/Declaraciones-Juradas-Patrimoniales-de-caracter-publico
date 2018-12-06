@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Declaraciones Juradas Patrimoniales Integrales de carácter público - AAAA- Actualizado al AAAA-MM-DD
+### Declaraciones Juradas Patrimoniales Integrales de carácter público - AAAA- altas y bajas al AAAA-MM-DD
 
--   **Nombre del archivo:** declaraciones-juradas-AAAA-actualizado-al-AAAA-MM-DD.csv (AAAA: Año fiscal)
+-   **Nombre del archivo:** declaraciones-juradas-AAAA-altas-y-bajas-al-AAAA-MM-DD.csv (AAAA: Año fiscal)
 
 -   **Descripción del contenido:** detalle de las Declaraciones Juradas Patrimoniales integrales para el año fiscal correspondiente
 
@@ -44,7 +44,9 @@ Recursos disponibles
 
 -   **anio (int):** año de presentación de la declaración jurada
 
--   **rectificativa (int):** indica si es una rectificación o una declaración jurada original. El número entero indica la cantidad de enmiendas que fueron hechas
+-   **tipo_declaracion_jurada (int):** tipo de declaración jurada. Puede tomar los valores: (0) indica el estado de la presentación de la delcaración jurada al inicio de la actividad en la función pública; (1) indica el cece de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) indica la la renovación anual de la declaración jurada
+
+   -   **rectificativa (int):** indica si es una rectificación o una declaración jurada original. El número entero indica la cantidad de enmiendas que fueron hechas
 
 -   **apellido_nombre (string):** apellido y nombre del funcionario
 
