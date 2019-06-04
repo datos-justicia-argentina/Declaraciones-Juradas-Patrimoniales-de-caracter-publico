@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Declaraciones Juradas Patrimoniales Integrales de carácter público - AAAA- altas y bajas al AAAA-MM-DD
+### Declaraciones Juradas Patrimoniales Integrales de carácter público - AAAA- altas y bajas al AAAAMMDD
 
--   **Nombre del archivo:** declaraciones-juradas-AAAA-altas-y-bajas-al-AAAA-MM-DD.csv (AAAA: Año fiscal)
+-   **Nombre del archivo:** declaraciones-juradas-AAAA-altas-y-bajas-al-AAAAMMDD.csv (AAAA: Año fiscal)
 
 -   **Descripción del contenido:** detalle de las Declaraciones Juradas Patrimoniales integrales con las altas y bajas de funcionarios para el año fiscal correspondiente
 
