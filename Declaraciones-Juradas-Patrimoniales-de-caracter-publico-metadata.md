@@ -10,7 +10,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 09/09/2016
 
--   **Tags o Etiquetas:** anticorrupción, DDJJ, funcionarios, Ley 25188, Ley 26857, patrimonio, ética pública, transparencia
+-   **Tags o Etiquetas:** anticorrupción, DDJJ, funcionarios, Ley 25188, Ley 26857, patrimonio, ética pública, transparencia, año fiscal, deudas, bienes, grupo familiar
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
 
