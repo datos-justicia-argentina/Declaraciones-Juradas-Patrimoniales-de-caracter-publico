@@ -44,7 +44,7 @@ Recursos disponibles
 
 -   **anio (int):** año de presentación de la declaración jurada
 
--   **tipo_declaracion_jurada_id (int):** tipo de declaración jurada. Puede tomar los valores: (0) estado de la presentación de la delcaración jurada al inicio de la actividad en la función pública; (1) cese de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) renovación anual de la declaración jurada
+-   **tipo_declaracion_jurada_id (int):** tipo de declaración jurada. Puede tomar los valores: (0) estado de la presentación de la declaración jurada al inicio de la actividad en la función pública; (1) cese de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) renovación anual de la declaración jurada
 
 -   **tipo_declaracion_jurada_descripcion (string):** describe el tipo de declarcion jurada. Puede tomar los valores: Anual / Baja / Inicial
 
@@ -170,7 +170,7 @@ Recursos disponibles
 
 -   **anio (int):** año de presentación de la declaración jurada
 
--   **tipo_declaracion_jurada_id (int):** tipo de declaración jurada. Puede tomar los valores: (0) estado de la presentación de la delcaración jurada al inicio de la actividad en la función pública; (1) cese de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) renovación anual de la declaración jurada
+-   **tipo_declaracion_jurada_id (int):** tipo de declaración jurada. Puede tomar los valores: (0) estado de la presentación de la declaración jurada al inicio de la actividad en la función pública; (1) cese de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) renovación anual de la declaración jurada
 
 -   **tipo_declaracion_jurada_descripcion (string):** describe el tipo de declarcion jurada. Puede tomar los valores: Anual / Baja / Inicial
 
@@ -178,13 +178,13 @@ Recursos disponibles
 
 -   **funcionario_apellido_nombre (string):** apellido y nombre del funcionario
 
--   **periodo_inicio_cierre (string):** Indica si la declaración es presentada durante el inicio (I) o cierre (C) del período fiscal delclarado. En el caso de ser un (ALTA), el período indicado va a ser el de inicio de la actividad en la función pública y para el caso de una (BAJA) el del cece de actividad en la función pública
+-   **periodo_inicio_cierre (string):** Indica si la declaración es presentada durante el inicio (I) o cierre (C) del período fiscal declarado. En el caso de ser un (ALTA), el período indicado va a ser el de inicio de la actividad en la función pública y para el caso de una (BAJA) el del cece de actividad en la función pública
 
 -   **bien_descripcion (string):** descripción del bien declarado
 
 -   **bien_tipo (string):** indica el tipo de bien
 
--   **bien_origen_fondos (string):** origen de los fondos con los que se adquirió el bien
+-   **bien_origen_fondos (string):** indica origen de los fondos con los que se adquirió el bien
 
 -   **bien_titularidad (string):** indica el porcentaje de titularidad del bien
 
@@ -208,7 +208,7 @@ Recursos disponibles
 
 -   **anio (int):** año de presentación de la declaración jurada
 
--   **tipo_declaracion_jurada_id (int):** tipo de declaración jurada. Puede tomar los valores: (0) estado de la presentación de la delcaración jurada al inicio de la actividad en la función pública; (1) cese de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) renovación anual de la declaración jurada
+-   **tipo_declaracion_jurada_id (int):** tipo de declaración jurada. Puede tomar los valores: (0) estado de la presentación de la declaración jurada al inicio de la actividad en la función pública; (1) cese de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) renovación anual de la declaración jurada
 
 -   **tipo_declaracion_jurada_descripcion (string):** describe el tipo de declarcion jurada. Puede tomar los valores: Anual / Baja / Inicial
 
@@ -216,7 +216,7 @@ Recursos disponibles
 
 -   **funcionario_apellido_nombre (string):** apellido y nombre del funcionario
 
--   **periodo_inicio_cierre (string):** Indica si la declaración es presentada durante el inicio (I) o cierre (C) del período fiscal delclarado. En el caso de ser un (ALTA), el período indicado va a ser el de inicio de la actividad en la función pública y para el caso de una (BAJA) el del cece de actividad en la función pública
+-   **periodo_inicio_cierre (string):** Indica si la declaración es presentada durante el inicio (I) o cierre (C) del período fiscal declarado. En el caso de ser un (ALTA), el período indicado va a ser el de inicio de la actividad en la función pública y para el caso de una (BAJA) el del cece de actividad en la función pública
 
 -   **deuda_tipo (string):** indica el tipo de deuda. Puede tomar los valores: Común / Hipotecario / Prendario
 
@@ -246,7 +246,7 @@ Recursos disponibles
 
 -   **anio (int):** año de presentación de la declaración jurada
 
--   **tipo_declaracion_jurada_id (int):** tipo de declaración jurada. Puede tomar los valores: (0) estado de la presentación de la delcaración jurada al inicio de la actividad en la función pública; (1) cese de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) renovación anual de la declaración jurada
+-   **tipo_declaracion_jurada_id (int):** tipo de declaración jurada. Puede tomar los valores: (0) estado de la presentación de la declaración jurada al inicio de la actividad en la función pública; (1) cese de la obligación de presentar la declaración jurada por estár fuera de la función pública; (2) renovación anual de la declaración jurada
 
 -   **tipo_declaracion_jurada_descripcion (string):** describe el tipo de declarcion jurada. Puede tomar los valores: Anual / Baja / Inicial
 
@@ -268,7 +268,7 @@ Recursos disponibles
 
 -   **Nombre:** declaraciones-juradas-AAAA.zip
 
--   **Descripción del contenido:** archivo comprimido que contiene las Declaraciones Juradas Patrimoniales Integradas consolidadas de funcionarios organizadas en archivos anuales para el año fiscal correspondiente.
+-   **Descripción del contenido:** archivo comprimido que contiene las Declaraciones Juradas Patrimoniales Integradas consolidadas de funcionarios organizadas en archivos anuales para el año fiscal correspondiente, con archivos de detalle de Grupo Familiar, Bienes y Deudas.
 
 -   **Formato:** ZIP
 
