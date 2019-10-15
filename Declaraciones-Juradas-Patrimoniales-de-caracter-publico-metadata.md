@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Declaraciones Juradas Patrimoniales Integrales desde el año 2012 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Declaraciones Juradas Patrimoniales Integrales actualizadas a la fecha AAAAMMDD
 
 
 ### Campos del recurso
