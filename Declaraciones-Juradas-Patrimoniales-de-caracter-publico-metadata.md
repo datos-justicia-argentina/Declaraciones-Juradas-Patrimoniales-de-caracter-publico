@@ -1,7 +1,7 @@
 Declaraciones Juradas Patrimoniales Integrales de carácter público
 ==================================================================
 
-Datos correspondientes a las Declaraciones Juradas Patrimoniales Integrales presentadas por los sujetos obligados conforme lo normado en la [Ley de Ética Pública 25.188](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/norma.htm) modificada por la [Ley 26.857](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215002/norma.htm), reglamentada por el [Decreto Nro. 895/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217131/norma.htm) y la [Resolución General AFIP Nro. 3511/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217218/norma.htm), [Resolución M.J. y D.H. Nro. 1695/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/219937/norma.htm) y [Resolución M.J. y D.H. Nro. 23-E/2017](http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/277822/norma.htm). La utilización de este conjunto de datos se encuentra regulada por el Art. 11 de la [Ley de Ética Pública 25.188](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm).
+Datos correspondientes a las Declaraciones Juradas Patrimoniales Integrales presentadas por los sujetos obligados conforme lo normado en la  modificada por la , reglamentada por el  La utilización de este conjunto de datos se encuentra regulada por el Art. 11 de la [Ley de Ética Pública 25.188](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/texact.htm).
 
 http://datos.jus.gob.ar/dataset/declaraciones-juradas-patrimoniales-integrales
 
@@ -276,6 +276,24 @@ Notas:
 ------
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
+[Ley de Ética Pública 25.188](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/60847/norma.htm)
+
+[Ley 26.857](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/215002/norma.htm)
+
+[Decreto Nro. 895/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217131/norma.htm)
+
+[Resolución General AFIP Nro. 3511/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/217218/norma.htm)
+
+[Resolución M.J. y D.H. Nro. 1695/2013](http://servicios.infoleg.gob.ar/infolegInternet/anexos/215000-219999/219937/norma.htm)
+
+[Resolución M.J. y D.H. Nro. 23-E/2017](http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/277822/norma.htm)
+
+[Decreto Nro. 164/99](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/61900/texact.htm)
+
+[Resolución Nro. 6/2000](http://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/63908/norma.htm)
+
+[Resolución Nro. 1/2001](http://servicios.infoleg.gob.ar/infolegInternet/anexos/70000-74999/71743/norma.htm)
 
 El informe completo de las Declaraciones Juradas Patrimoniales Integrales se genera  entre el mes de septiembre y octubre de cada año.
 
