@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** anticorrupción, DDJJ, funcionarios, Ley 25188, Ley 26857, patrimonio, ética pública, transparencia, año fiscal, deudas, bienes, grupo familiar
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
+-   **Organización:** Ministerio de Justicia. Oficina Anticorrupción
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
+-   **Autor:** Ministerio de Justicia. Oficina Anticorrupción
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Oficina Anticorrupción
+-   **Responsable:** Ministerio de Justicia. Oficina Anticorrupción
 
 -   **Grupo:** Transparencia y anticorrupción
 
@@ -297,4 +297,4 @@ Notas:
 
 El informe completo de las Declaraciones Juradas Patrimoniales Integrales se genera  entre el mes de septiembre y octubre de cada año.
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016)
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2016)
